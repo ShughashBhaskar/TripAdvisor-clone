@@ -1,8 +1,4 @@
-Certainly! Here's a simple and clear README description for your one-page Trip Advisor website:
-
----
-
-# Trip Advisor Clone
+# TripAdvisor-Clone
 
 ## Overview
 
